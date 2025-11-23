@@ -6,6 +6,8 @@ The aim of this project was to control an electroluminescent (EL) wire by using 
 
 ![IMG_0737](https://github.com/user-attachments/assets/f03b2995-9c6b-4cd0-8cb3-059e127b002e)
 
+![IMG_0729](https://github.com/user-attachments/assets/f41dcc40-f030-4be3-8027-ed478a37e6e4)
+
 
 ## Components
 
