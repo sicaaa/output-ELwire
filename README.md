@@ -1,6 +1,6 @@
 # output-ELwire
 
-In this project, we tested how to control EL-wire with a microcontroller.
+The aim of this project was to control an electroluminescent (EL) wire by using a microcontroller.
 
 ![IMG_0717-2](https://github.com/user-attachments/assets/d15ca982-4e8c-432e-904a-db0613555409)
 
